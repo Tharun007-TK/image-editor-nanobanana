@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Editor",
+  "description": "An advanced image editor powered by Gemini. Upload an image, provide an editing prompt, and let the AI generate a new version of your image.",
+  "requestFramePermissions": []
+}
